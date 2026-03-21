@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmaa Youssry</h1>
 
 <p align="center">
-🤖 Data Scientist | Machine Learning Engineer <br>
+🤖 Data Scientist | AI Engineer <br>
 📊 AI, NLP, Computer Vision, Predictive Modeling <br>
 📍 Egypt
 </p>
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I am a Data Scientist and Machine Learning Engineer specializing in deep learning, predictive modeling, and data-driven systems.
+I am a Data Scientist and AI Engineer specializing in deep learning, predictive modeling, and data-driven systems.
 
 I have hands-on experience building scalable machine learning models on large-scale datasets (10M+ records), optimizing performance, and deploying intelligent systems for real-world applications including cybersecurity, healthcare, and analytics.
 
