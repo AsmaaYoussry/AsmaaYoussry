@@ -46,12 +46,10 @@ I have hands-on experience building scalable machine learning models on large-sc
 
 ## 📌 Featured Projects
 
-- 🚗 AI-Based Cybersecurity for Autonomous Vehicles  
-- 🧠 Arabic Question Answering (Transformers)  
-- ❤️ Heart Disease Prediction Models  
-- 🧬 EEG Emotion Recognition  
-- ✍️ Arabic Handwriting Recognition  
-
+- 🤖 Smart Virtual Assistant with Vision-Based Controls  
+- 🧠 Arabic Sentiment Analysis (ML & LSTM)  
+- ❤️ Heart Disease Prediction  
+- 📊 Supermarket Sales Dashboard (Power BI)
 ---
 
 ## 📈 Highlights
